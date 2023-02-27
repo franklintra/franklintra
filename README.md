@@ -1,4 +1,5 @@
 # 💫 About Me:
+Franklin Tranié<br>
 📚Currently studying computer science at EPFL<br>🌱Currently learning 
 Java<br>💻Passion of computer since forever<br>👀Curious about any cool 
 projects I can edit
