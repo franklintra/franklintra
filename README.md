@@ -1,5 +1,6 @@
 # 💫 About Me:
 Franklin Tranié<br>
+🌐 Little [portfolio page](https://franklintra.github.io) with a few of my ongoing projects.
 📚Currently studying computer science at EPFL<br>🌱Currently learning 
 Java<br>💻Passion of computer since forever<br>👀Curious about any cool 
 projects I can edit
