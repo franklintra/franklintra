@@ -49,7 +49,7 @@ Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Ra
 
 [1]:	htttps://discord.gg/Fisa#8991
 [2]:	https://instagram.com/franklin.tranie
-[3]:	https://www.linkedin.com/in/franklin-tranié-793397252/
+[3]:	https://www.linkedin.com/in/franklin-tranie-793397252/
 [4]:  https://twitter.com/franklintrn
 
 [image-1]:	https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white
