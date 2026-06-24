@@ -1,71 +1,59 @@
-# Hi, I'm Franklin Tranié 👋
+<h1 align="center">Hi, I'm Franklin 👋</h1>
 
-> *Note: This README might be outdated. Check my [CV repository](https://github.com/franklintra/CV) for the latest information.*
+<p align="center">
+  <b>MSc Machine Intelligence @ ETH Zürich</b> · CS @ EPFL<br/>
+  Building AI products · researching privacy-preserving ML
+</p>
 
-**MSc CS @ ETH (Machine Intelligence) | Private ML/FHE Researcher | Medical AI @ MIT Jameel Clinic**
-
-I'm a Computer Science graduate from EPFL, now pursuing my MSc at ETH Zürich specializing in Machine Intelligence. I focus on privacy-preserving ML with Fully Homomorphic Encryption (FHE) and medical AI applications.
-
----
-
-## 🔬 Current Research
-
-- **EPFL SaCS Lab:** Co-designing hybrid FHE schemes for practical ML inference (~10× latency reduction)
-- **MIT Jameel Clinic:** Improving cancer prediction models for low-dose CT scans (AUC: 0.76 → 0.85)
-- **Paper:** Lead co-author of *"Practical and Private ML Inference with Hybrid FHE"* (under review)
+<p align="center">
+  <a href="https://franklintra.github.io"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=firefox&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/franklin-tranie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/franklintra/CV"><img src="https://img.shields.io/badge/CV-2ea44f?style=flat-square&logo=readthedocs&logoColor=white" alt="CV" /></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+I like working where research meets a shipped product — currently splitting my time between an MSc in Machine Intelligence at ETH Zürich and building things that real people use. Most of what I do lives somewhere between **applied ML**, **systems**, and **privacy**.
 
-### 🔐 [Supersayan](https://github.com/supersayan-labs/supersayan)
-Python library that converts PyTorch models to hybrid-FHE equivalents with a simple 3-line API. Features GPU-parallel kernels and fast ciphertext packing.
+### 🧪 What I'm into
 
-### 🤖 [SmolVLA Dataset](https://huggingface.co/datasets/SmolVLADataset/SmolVLADataset)
-Merged 540 source datasets into comprehensive VLA robotic dataset on Hugging Face. Built Python `LeRobotDataset` downloader with parquet caching.
-- [GitHub](https://github.com/SmolVLADataset/smolvladataset) · [PyPi](https://pypi.org/project/smolvladataset/) · [Paper](https://arxiv.org/abs/2506.01844)
+- **Privacy-preserving ML** — making encrypted inference fast enough to be practical (hybrid FHE).
+- **AI products & agents** — LLM orchestration, evaluation, and the unglamorous plumbing that makes them reliable.
+- **Medical & applied AI** — squeezing more signal out of imperfect, real-world data.
 
----
+### 🚀 Things I'm building
 
-## 💻 Tech Stack
+**🏢 Velari** — Co-founder & CPO. An AI platform for investment deal sourcing: turning a structured thesis into ranked, evidence-backed company matches over messy real-world data. Multi-model LLM pipelines, workflow orchestration, the works.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
-</div>
+**🔐 [Supersayan](https://github.com/supersayan-labs/supersayan)** — A Python library that turns PyTorch models into hybrid-FHE equivalents in a few lines, with GPU-parallel kernels for inference on encrypted data.
 
-**Languages:** Python · Java · C/C++ · Julia · Node.js · Bash  
-**ML/AI:** PyTorch · PyTorch Lightning · scikit-learn · CUDA · NumPy · pandas  
-**Systems:** Docker · Kubernetes · Linux · Git · AWS/GCP  
-**Special:** Fully Homomorphic Encryption (FHE) · Medical Imaging · Satellite Communications  
+**🤖 [SmolVLA Dataset](https://huggingface.co/datasets/SmolVLADataset/SmolVLADataset)** — Merged 540 source datasets into one large vision-language-action robotics dataset, packaged with a clean `pip`-installable downloader. · [PyPI](https://pypi.org/project/smolvladataset/)
 
----
+**🕵️ Belcova** — A fun side project: teaching ML to sniff out fraud. Mostly an excuse to play with anomaly detection on transactional data and see how far a scrappy model can go.
 
-## 🏆 Achievements
+### 🔬 Research
 
-- 🥇 **Multiple Hackathon Winner:** Mistral, Hugging Face, Entrepreneur First, LLM Hack
-- 📚 **2× Animaths France National Mathematics Competition** (Top 100)
-- 🏃 **2× Marathon Finisher** | 🏊 **8km Open-Water Swim** (Salina → Lipari)
-- 🌍 **Languages:** French · English
+- **Hybrid FHE** *(EPFL SaCS Lab)* — co-designed a scheme for practical private ML inference; lead co-author on a paper currently under review.
+- **Medical imaging** *(MIT Jameel Clinic)* — improved a cancer-prediction model for low-dose CT scans.
 
----
+### 🛠️ Tech I reach for
 
-## 📫 Connect
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+</p>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-tranie)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franklin.tranie@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://franklintra.github.io)
-
-</div>
+`Python` · `PyTorch` · `C/C++` · `CUDA` · `TypeScript` · `FastAPI` · `React` · `Docker` · `PostgreSQL` — plus a soft spot for FHE and anything that involves making slow things fast.
 
 ---
 
-<div align="center">
-  <i>Currently training for Ironman 2026 🏊‍♂️🚴‍♂️🏃‍♂️</i>
-</div>
+<p align="center">
+  <i>Always happy to talk about ML, privacy, or startups.</i><br/>
+  <sub>For the latest, see my <a href="https://github.com/franklintra/CV">CV</a>.</sub>
+</p>
