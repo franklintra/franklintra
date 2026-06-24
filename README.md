@@ -29,7 +29,9 @@ I like working where research meets a shipped product — currently splitting my
 
 **🤖 [SmolVLA Dataset](https://huggingface.co/datasets/SmolVLADataset/SmolVLADataset)** — Merged 540 source datasets into one large vision-language-action robotics dataset, packaged with a clean `pip`-installable downloader. · [PyPI](https://pypi.org/project/smolvladataset/)
 
-**🕵️ Belcova** — A fun side project: teaching ML to sniff out fraud. Mostly an excuse to play with anomaly detection on transactional data and see how far a scrappy model can go.
+**📱 [Splice](https://github.com/franklintra/splice)** — A cross-platform, open-source iOS sideloader. Installs apps with a free Apple cert and runs a background daemon that re-signs them before they expire — on Linux, Windows, macOS, even headless on a Raspberry Pi.
+
+**🕵️ Belcova** — A fun side project: teaching ML to catch fraud. Mostly an excuse to play with anomaly detection on transactional data and see how far a scrappy model can go.
 
 ### 🔬 Research
 
