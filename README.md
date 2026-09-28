@@ -39,7 +39,7 @@ I keep field notes at **[blog.tranie.org](https://blog.tranie.org)** on models, 
 
 ### 🔬 Research
 
-- **Hybrid FHE** *(EPFL SaCS Lab)* — co-designed **Safhire**, which removes server-side bootstrapping by offloading non-linearities to the client, reaching **~10× lower latency** than Orion, the state-of-the-art encrypted-inference baseline. Co-lead author on *[Practical and Private Hybrid ML Inference with Fully Homomorphic Encryption](https://arxiv.org/abs/2509.01253)*, under review at USENIX Security '26.
+- **Hybrid FHE** *(EPFL SaCS Lab)* — co-designed **Safhire**, which removes server-side bootstrapping by offloading non-linearities to the client, reaching **~10× lower latency** than Orion, the state-of-the-art encrypted-inference baseline. Co-lead author on *[Practical and Private Hybrid ML Inference with Fully Homomorphic Encryption](https://arxiv.org/abs/2509.01253)*, accepted at TMLR 2026.
 - **Medical imaging** *(MIT CSAIL / Jameel Clinic)* — improved the Sybil lung-cancer prediction model for low-dose CT, raising **AUC from 0.76 to 0.85**, and built a dose-modulated layer that transfers competence across scan doses. Now in clinical testing at a partner hospital in Italy.
 
 ### 🛠️ Tech I reach for
